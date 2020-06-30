@@ -74,3 +74,58 @@ TextStyle t9 = TextStyle(
   fontSize: 24,
   fontWeight: FontWeight.bold,
 );
+
+TextStyle t10 = TextStyle(
+  color: kWhite,
+  fontFamily: 'PlayfairDisplaz',
+  fontSize: 42,
+  fontWeight: FontWeight.w900,
+);
+
+TextStyle t11 = TextStyle(
+  color: kWhite,
+  fontFamily: 'PlayfairDisplaz',
+  fontSize: 30,
+  fontWeight: FontWeight.bold,
+);
+
+TextStyle t12 = TextStyle(
+  color: kWhite,
+  fontFamily: 'Sansation',
+  fontSize: 24,
+  fontWeight: FontWeight.normal,
+);
+
+TextStyle t13 = TextStyle(
+  color: Colors.grey[400].withOpacity(0.6),
+  fontFamily: 'Sansation',
+  fontSize: 11,
+  fontWeight: FontWeight.normal,
+);
+TextStyle t15 = TextStyle(
+  color: kWhite,
+  fontFamily: 'Sansation',
+  fontSize: 14,
+  fontWeight: FontWeight.normal,
+);
+
+TextStyle t14 = TextStyle(
+  color: Colors.grey[400].withOpacity(0.4),
+  fontFamily: 'Sansation',
+  fontSize: 11,
+  fontWeight: FontWeight.normal,
+);
+
+TextStyle t16 = TextStyle(
+  color: kWhite,
+  fontFamily: 'Sansation',
+  fontSize: 14,
+  fontWeight: FontWeight.bold,
+);
+
+TextStyle t17 = TextStyle(
+  color: kWhite.withOpacity(0.5),
+  fontFamily: 'Sansation',
+  fontSize: 12,
+  fontWeight: FontWeight.normal,
+);
